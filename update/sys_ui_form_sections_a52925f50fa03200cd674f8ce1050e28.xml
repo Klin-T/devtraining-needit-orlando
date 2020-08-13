@@ -17,30 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:42:50</sys_created_on>
+            <sys_created_on>2020-08-12 12:39:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e92925f50fa03200cd674f8ce1050e2b</sys_id>
+            <sys_id>87c337c6dbee1010d82a4782399619be</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">a52925f50fa03200cd674f8ce1050e28</sys_ui_form>
-            <sys_ui_section display_value="">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">c3c337c6dbee1010d82a47823996194a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:42:50</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-26 20:50:56</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>4c0b61390fa03200cd674f8ce1050e09</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">a52925f50fa03200cd674f8ce1050e28</sys_ui_form>
-            <sys_ui_section display_value="">040b61390fa03200cd674f8ce1050e07</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-26 20:50:56</sys_updated_on>
+            <sys_updated_on>2020-08-12 12:39:36</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_58872_needit_needit</name>
